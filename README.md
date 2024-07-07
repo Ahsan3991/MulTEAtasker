@@ -14,8 +14,8 @@ How to run the game on Ubuntu (tested on Noble Numbat)
 5) Then type Python3 fun.py and press enter
 
 THINGS TO ADD
-Different levels to achieve promotion
-Better algorithm to decrease power level and to increase it by drinking tea
-Adding time stamp to make sure the employee achieve the required number of tasks in that level within the stipulated time
-Sounds for every hit and Game over
-Better background
+1) Different levels to achieve promotion
+2) Better algorithm to decrease power level and to increase it by drinking tea
+3) Adding time stamp to make sure the employee achieve the required number of tasks in that level within the stipulated time
+4) Sounds for every hit and Game over
+5) Better background
