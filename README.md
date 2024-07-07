@@ -1,4 +1,5 @@
-MulTEAtasker is a flappy bird style game written by me in Python using Pygame library. In this game you play as a character who is a corporate employee and he has to finish tasks in order to get salary increments.
+MulTEAtasker is a flappy bird style game written by me in Python using Pygame library. In this game you play as a character who is a corporate employee 
+and he has to finish tasks in order to get salary increments.
 Every second the employee loses its power and therefore he has to drink chai (Tea) in order to replenish its power. 
 
 How to run the game on Ubuntu (tested on Noble Numbat)
