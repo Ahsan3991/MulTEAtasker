@@ -7,7 +7,7 @@ How to run the game on Ubuntu (tested on Noble Numbat)
 2) Make sure to install the updated version of Python and Pygame
     > $ sudo apt-get update
     > $ sudo apt-get install python3.6
-   use this link to install Pygame https://www.pygame.org/wiki/CompileUbuntu?parent=
+    > use this link to install Pygame https://www.pygame.org/wiki/CompileUbuntu?parent=
 4) Open the terminal and goto the folder where the game files reside
 5) Then type Python3 fun.py and press enter
 
