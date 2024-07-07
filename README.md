@@ -1,7 +1,6 @@
 MulTEAtasker is a flappy bird style game written by me in Python using Pygame library. In this game you play as a character who is a corporate employee 
-and he has to finish tasks in order to get salary increments.
-Game images are designed by me using kolourpaint in Ubuntu 
-Every second the employee loses its power and therefore he has to drink chai (Tea) in order to replenish its power. 
+and he has to finish tasks in order to get salary increments. Every second the employee loses its power and therefore he has to drink chai (Tea) in order to replenish its power. 
+Game images are designed by me using kolourpaint in Ubuntu. 
 
 How to run the game on Ubuntu (tested on Noble Numbat)
 1) Download all the files on your local folder
