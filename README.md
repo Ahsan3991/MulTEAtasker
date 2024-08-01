@@ -18,3 +18,6 @@ THINGS TO ADD
 3) Adding time stamp to make sure the employee achieve the required number of tasks in that level within the stipulated time
 4) Sounds for every hit and Game over
 5) Better background
+![Screenshot from 2024-08-01 16-32-47](https://github.com/user-attachments/assets/99c2be0b-16f4-4641-a029-a2a9a84ebe49)
+![Screenshot from 2024-08-01 16-33-16](https://github.com/user-attachments/assets/fee37ca5-e24e-4d39-8e92-87cf7d15d4c1)
+![Screenshot from 2024-08-01 16-33-26](https://github.com/user-attachments/assets/a44d6286-8450-4e0e-bc6c-49656a7dd432)
